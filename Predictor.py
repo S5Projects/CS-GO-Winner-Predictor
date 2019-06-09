@@ -68,3 +68,4 @@ for item in accuracy:
 
 rate = '{:0.2%}'.format(accurate / len(accuracy))
 print("正答率は" + rate + "です")
+input("")
